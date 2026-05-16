@@ -25,6 +25,7 @@ A personalized AI-powered daily news brief app built for Vibeathon 2.0.
 
 NEWS_API_KEY=your_key
 GROQ_API_KEY=your_key
+
 6. Run backend: `uvicorn backend.main:app --reload`
 7. Run frontend: `streamlit run frontend/app.py`
 
