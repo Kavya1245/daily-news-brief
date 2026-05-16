@@ -1,0 +1,52 @@
+{
+  "2026-05-16": {
+    "saved_at": "2026-05-16T17:31:11.770693",
+    "categories": [
+      "technology"
+    ],
+    "data": {
+      "date": "2026-05-16",
+      "categories": {
+        "technology": {
+          "articles": [
+            {
+              "title": "Zero-day exploit completely defeats default Windows 11 BitLocker protections",
+              "description": "It's not entirely clear how the exploit works. Microsoft says it's investigating.",
+              "source": "Biz & IT - Ars Technica",
+              "url": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
+              "published_at": "Thu, 14 May 2026 18:32:01 +0000"
+            },
+            {
+              "title": "Cisco announces record revenue and 4,000 layoffs in the same day",
+              "description": "Layoffs are \"not a savings-driven restructure,\" CFO says.",
+              "source": "Biz & IT - Ars Technica",
+              "url": "https://arstechnica.com/information-technology/2026/05/cisco-announces-record-revenue-and-4000-layoffs-in-the-same-day/",
+              "published_at": "Thu, 14 May 2026 16:47:43 +0000"
+            },
+            {
+              "title": "Linux bitten by second severe vulnerability in as many weeks",
+              "description": "Production-version patches are coming online and should be installed pronto.",
+              "source": "Biz & IT - Ars Technica",
+              "url": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
+              "published_at": "Mon, 11 May 2026 22:28:19 +0000"
+            },
+            {
+              "title": "Chaos erupts as cyberattack disrupts learning platform Canvas amid finals",
+              "description": "Across the country, schools and colleges postpone year-end tests.",
+              "source": "Biz & IT - Ars Technica",
+              "url": "https://arstechnica.com/security/2026/05/chaos-erupts-as-cyberattack-disrupts-learning-platform-canvas-amid-finals/",
+              "published_at": "Fri, 08 May 2026 18:33:48 +0000"
+            }
+          ],
+          "summaries": [
+            "A zero-day exploit has been discovered that can bypass default Windows 11 BitLocker protections, with Microsoft currently investigating the issue. The exploit's method of operation is unclear. This vulnerability poses a significant risk to users relying on BitLocker for data encryption.",
+            "Cisco has announced record revenue, but simultaneously disclosed plans to lay off 4,000 employees. The company's CFO stated that the layoffs are not driven by cost-cutting measures, but rather a strategic decision. The exact reasons behind the layoffs remain unclear.",
+            "Linux has been affected by a severe vulnerability, marking the second significant issue in as many weeks. Production-version patches are being released and are recommended to be installed promptly to mitigate potential risks. Users are advised to update their systems to prevent potential security breaches.",
+            "A cyberattack on the learning platform Canvas has disrupted educational institutions nationwide, forcing many to postpone year-end tests. The attack has caused widespread disruption and chaos, with schools and colleges scrambling to find alternative solutions."
+          ],
+          "brief": "- A zero-day exploit has been discovered that can bypass Windows 11 BitLocker protections, with Microsoft investigating.\n- Cisco has announced record revenue alongside plans to lay off 4,000 employees, citing a strategic decision rather than cost-cutting.\n- Linux has been hit by a severe vulnerability, with production-version patches available for installation to prevent potential security breaches.\n- A cyberattack on Canvas has disrupted educational institutions nationwide, forcing many to postpone year-end tests."
+        }
+      }
+    }
+  }
+}
